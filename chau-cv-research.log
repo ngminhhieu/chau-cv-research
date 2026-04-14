@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.21.0 (TeX Live 2025)  (format=lualatex 2026.1.12)  13 APR 2026 17:28
+This is LuaHBTeX, Version 1.21.0 (TeX Live 2025)  (format=lualatex 2026.1.12)  14 APR 2026 23:03
  restricted system commands enabled.
  file:line:error style messages enabled.
 **/Users/s5317836/Documents/Work/chau-cv-research/chau-cv-research.tex
@@ -993,12 +993,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 59.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 59.
- (./sections/section_headline.tex) (./sections/section_competence.tex) (./sections/section_experience.tex
-Overfull \hbox (0.77266pt too wide) in paragraph at lines 15--1
-[][]   
- []
-
-
+ (./sections/section_headline.tex) (./sections/section_experience.tex
 Overfull \hbox (1.92236pt too wide) in alignment at lines 3--81
  [][] 
  []
@@ -1006,11 +1001,21 @@ Overfull \hbox (1.92236pt too wide) in alignment at lines 3--81
 [1
 
 {/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]) (./sections/section_publications.tex
-Overfull \hbox (1.52237pt too wide) in alignment at lines 3--18
+Overfull \hbox (1.52237pt too wide) in alignment at lines 3--32
  [][] 
  []
 
-[2]) (./sections/section_education.tex) (./sections/section_honors_awards.tex
+) (./sections/section_competence.tex) (./sections/section_education.tex
+Overfull \hbox (8.54283pt too wide) in paragraph at lines 15--1
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--1
+
+ []
+
+) (./sections/section_honors_awards.tex
 Overfull \hbox (1.52237pt too wide) in paragraph at lines 3--1
 [][]
  []
@@ -1020,9 +1025,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--1
 
  []
 
-
-
-[3]) (./sections/section_languages.tex
+) (./sections/section_languages.tex
 Overfull \hbox (1.52237pt too wide) in paragraph at lines 3--11
 [][]
  []
@@ -1033,40 +1036,40 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--11
  []
 
 ) (./sections/section_references.tex
-Overfull \hbox (1.8486pt too wide) in paragraph at lines 42--42
+Overfull \hbox (1.8486pt too wide) in paragraph at lines 23--23
 [][] 
  []
 
 
-Overfull \hbox (96.08086pt too wide) in paragraph at lines 48--48
+Overfull \hbox (195.16289pt too wide) in paragraph at lines 29--29
 [][] 
  []
 
 )
 
-[4] (./chau-cv-research.aux)
+[2] (./chau-cv-research.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
 Package rerunfilecheck Info: File `chau-cv-research.out' has not changed.
-(rerunfilecheck)             Checksum: 63CC5626BAD40CBB415EC273B27C0FD6;798.
+(rerunfilecheck)             Checksum: 8005C79A3D9DD5E25D703C30106125AC;798.
 )
 
 Here is how much of LuaTeX's memory you used:
- 31066 strings out of 475506
- 156364,1373583 words of node,token memory allocated
- 902 words of node memory still in use:
-   4 hlist, 1 vlist, 1 rule, 17 glue, 3 kern, 1 penalty, 2 glyph, 117 attribute, 71 glue_spec, 18 attribute_list, 2 write nodes
-   avail lists: 1:8,2:4716,3:535,4:188,5:228,6:142,7:13352,8:2,9:1002,10:16,11:1456
+ 31064 strings out of 475506
+ 156368,1373583 words of node,token memory allocated
+ 948 words of node memory still in use:
+   4 hlist, 1 vlist, 1 rule, 19 glue, 3 kern, 1 penalty, 2 glyph, 131 attribute, 71 glue_spec, 20 attribute_list, 2 write nodes
+   avail lists: 1:6,2:4260,3:613,4:216,5:267,6:177,7:13959,8:2,9:1190,10:16,11:1475
  53297 multiletter control sequences out of 65536+600000
  62 fonts using 14878247 bytes
  117i,11n,117p,1252b,486s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </System/Library/Fonts/Supplemental/Times New Roman Italic.ttf></usr/local/texlive/2025/texmf-dist/fonts/opentype/public/fontawesome/FontAwesome.otf></System/Library/Fonts/Supplemental/Times New Roman Bold.ttf></usr/local/texlive/2025/texmf-dist/fonts/opentype/public/tex-gyre/texgyretermes-regular.otf></System/Library/Fonts/Supplemental/Times New Roman.ttf>
-Output written on chau-cv-research.pdf (4 pages, 115144 bytes).
+Output written on chau-cv-research.pdf (2 pages, 116103 bytes).
 
-PDF statistics: 104 PDF objects out of 1000 (max. 8388607)
- 82 compressed objects within 1 object stream
- 15 named destinations out of 1000 (max. 131072)
+PDF statistics: 96 PDF objects out of 1000 (max. 8388607)
+ 76 compressed objects within 1 object stream
+ 13 named destinations out of 1000 (max. 131072)
  80 words of extra memory for PDF output out of 10000 (max. 100000000)
 
