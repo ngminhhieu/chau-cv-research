@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.21.0 (TeX Live 2025)  (format=lualatex 2026.1.12)  14 APR 2026 23:03
+This is LuaHBTeX, Version 1.21.0 (TeX Live 2025)  (format=lualatex 2026.1.12)  14 APR 2026 23:10
  restricted system commands enabled.
  file:line:error style messages enabled.
 **/Users/s5317836/Documents/Work/chau-cv-research/chau-cv-research.tex
@@ -1001,7 +1001,7 @@ Overfull \hbox (1.92236pt too wide) in alignment at lines 3--81
 [1
 
 {/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]) (./sections/section_publications.tex
-Overfull \hbox (1.52237pt too wide) in alignment at lines 3--32
+Overfull \hbox (1.52237pt too wide) in alignment at lines 3--31
  [][] 
  []
 
@@ -1066,7 +1066,7 @@ Here is how much of LuaTeX's memory you used:
  62 fonts using 14878247 bytes
  117i,11n,117p,1252b,486s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </System/Library/Fonts/Supplemental/Times New Roman Italic.ttf></usr/local/texlive/2025/texmf-dist/fonts/opentype/public/fontawesome/FontAwesome.otf></System/Library/Fonts/Supplemental/Times New Roman Bold.ttf></usr/local/texlive/2025/texmf-dist/fonts/opentype/public/tex-gyre/texgyretermes-regular.otf></System/Library/Fonts/Supplemental/Times New Roman.ttf>
-Output written on chau-cv-research.pdf (2 pages, 116103 bytes).
+Output written on chau-cv-research.pdf (2 pages, 115908 bytes).
 
 PDF statistics: 96 PDF objects out of 1000 (max. 8388607)
  76 compressed objects within 1 object stream
